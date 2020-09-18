@@ -1,4 +1,4 @@
-# Causes/Organizations I Value
+### Causes/Organizations I Value
 + Healthcare
   + for the elderly
   + for those with mental health issues
@@ -16,7 +16,7 @@
   + ie: https://www.brookings.edu/research/fairness-in-algorithmic-decision-making/
 + [Brookings Institute](https://careers-brookings.icims.com/jobs/search?ss=1&hashed=-435682078)
 
-# Skills I want to use
+### Skills I want to use
 \*identify strengths and areas of needed additional training
 + strenghts to use:
   + verbal communication skills
@@ -31,8 +31,8 @@
   + non-technical written communication skills
   + ability to reach out to other workers and potential collaborators
 
-# Sign up for VassarNet (check)
-# Use VassarNet and LinkedIn to find alums working at orgs or fields I'm interested in
+### Sign up for VassarNet (check)
+\* Use VassarNet and LinkedIn to find alums working at orgs or fields I'm interested in
 \* list 3-5 people interested speaking with
 + [Cara Feldberg](https://www.linkedin.com/in/cara-feldberg-phd-71a10a191/)
 + [Emily Whicheloe](https://www.linkedin.com/in/emily-whicheloe-75a16591/)
@@ -47,9 +47,9 @@
 + [Grace Ashford](https://www.linkedin.com/in/graceashford/)
   + researcher/reporter at the NYT
 
-# Draft intro email to one to review with Stacy
+## TODO:
+### Draft intro email to one to review with Stacy
 
-# TODO:
 + cover letter for analyst role
   + [example](https://www.slideshare.net/paulgarcia658/research-analyst-cover-letter)
 Dear FILLME,
