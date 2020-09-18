@@ -10,8 +10,8 @@
   + UAW
   + UFT
 + Think Tanks:
-+ [Progressive Policy Institute](https://www.progressivepolicy.org/about/jobs/)
-+ [KFF Healthcare Thinktank](https://www.kff.org/employment-opportunities/ )
+  + [Progressive Policy Institute](https://www.progressivepolicy.org/about/jobs/)
+  + [KFF Healthcare Thinktank](https://www.kff.org/employment-opportunities/ )
 + Algorithmic fairness / anti-bigotry
   + ie: https://www.brookings.edu/research/fairness-in-algorithmic-decision-making/
 + [Brookings Institute](https://careers-brookings.icims.com/jobs/search?ss=1&hashed=-435682078)
