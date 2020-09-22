@@ -50,9 +50,12 @@
 ## TODO:
 ### Draft intro email to one to review with Stacy
 Dear NAME,
-  I'm Jon Berliner a fellow Vassar alum (2012 represent!)  I'm writing out because I'm considering a career change to one more in line with my values that betters progressive causes.  I'm looking to better understand the non-profit and NGO landscape, as well as for opportunities to break into the space.  I have a decade of experience in both academia and the tech industry performing research, doing statistical data analysis, leading teams, and commuinicating complex concepts in a simple manner in written, oral, and visual form.
-  I'd love to find a time to hear about your role at ROLE, how life led you there, and pick your brain for any advice you have for someone looking to enter the space and start working towards giving back to the community.  Please let me know if you have any time to talk - I'd really appreciate it.
+
+I'm Jon Berliner a fellow Vassar alum (2012 represent!)  I'm writing out because I'm considering a career change to one more in line with my values that betters progressive causes.  I'm looking to better understand the non-profit and NGO landscape, as well as for opportunities to break into the space.  I have a decade of experience in both academia and the tech industry performing research, doing statistical data analysis, leading teams, and commuinicating complex concepts in a simple manner in written, oral, and visual form.
+
+I'd love to find a time to hear about your role at ROLE, how life led you there, and pick your brain for any advice you have for someone looking to enter the space and start working towards giving back to the community.  Please let me know if you have any time to talk - I'd really appreciate it.
 Best,
+
 Jon Berliner
 
 + cover letter for analyst role
